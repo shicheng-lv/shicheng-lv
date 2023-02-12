@@ -1,16 +1,14 @@
-### Hi there 👋
+# 2023
 
-<!--
-**shicheng-lv/shicheng-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<aside>
+📎 路虽远，行则将至。事虽难，做则必成。
 
-Here are some ideas to get you started:
+</aside>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[https://indify.co/widgets/live/progressBar/9n5UU5bVRGb41lsfOYA0](https://indify.co/widgets/live/progressBar/9n5UU5bVRGb41lsfOYA0)
+
+[https://widgetbox.app/embed/calendar/simple/444cf4c2-e11b-4055-91bf-eb77b4e51778/c305a4d7-f525-493d-87de-5d83b1689c7a](https://widgetbox.app/embed/calendar/simple/444cf4c2-e11b-4055-91bf-eb77b4e51778/c305a4d7-f525-493d-87de-5d83b1689c7a)
+
+[http://player.bilibili.com/player.html?aid=758430255&bvid=BV1764y1R7ow&cid=348126224&page=1](http://player.bilibili.com/player.html?aid=758430255&bvid=BV1764y1R7ow&cid=348126224&page=1)
+
+[数据库](https://www.notion.so/dd58831ef57b40f7811118d5d8946821)
