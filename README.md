@@ -1,7 +1,18 @@
 ### 这里是shicheng的主页
 📎 路虽远，行则将至。事虽难，做则必成。
+
+**hi,  我是shicheng，一个建筑学专业转行计算机头铁青年，正在努力学习编程知识，希望能够追上大佬的脚步。**
 <br />
-  #### hi, i'm [shicheng](https://shicheng.fun/),
+
+**学习的领域包含人工智能、机器学习、算法等方向，期待有一天能够成为一名全栈大神。**
+
+**hi, i'm [shicheng](https://shicheng.fun/),I am an architecture major turned computer head young man,**
+<br />
+**and I am trying to learn programming knowledge, hoping to catch up with the big guys.**
+<br />
+**The fields of study include artificial intelligence, machine learning, algorithms and other directions,**
+<br />
+**and I look forward to one day becoming a full-stack god.**
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
